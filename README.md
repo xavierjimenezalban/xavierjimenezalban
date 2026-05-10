@@ -28,7 +28,7 @@ Passionate about the convergence of **Data Science**, formal systems, and **Musi
 <summary>📫 Contact</summary>
 <br>
 
-* [LinkedIn](https://linkedin.com/in/xavijimenez)
-* [Email](mailto:xavierjimenez@protonmail.com)
+* [LinkedIn](https://linkedin.com/in/xavierjimenezalban)
+* [Email](mailto:xavierjimenezalban@gmail.com)
 
 </details>

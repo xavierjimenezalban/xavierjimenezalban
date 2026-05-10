@@ -1,4 +1,4 @@
-# Hi, I'm Xavier Jiménez Albán 👋
+# Hi, I'm Xavier
 
 Multidisciplinary professional combining **Statistics, Economics, Accounting, and Information Systems**.
 Passionate about the convergence of **Data Science**, formal systems, and **Music**.
